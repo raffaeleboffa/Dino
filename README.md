@@ -1,5 +1,5 @@
-# Snake
-Gioco Old Style "Snake"
+# Dino
+Gioco Old Style "Dino"
 
 Puoi utilizzare il file .jar per eseguire il gioco direttamente
 
